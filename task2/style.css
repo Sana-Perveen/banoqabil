@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    cursor: zoom-in;
+}
+body{
+    background-color: black; 
+   
+}
+center{
+    
+     position: absolute;
+     bottom: 80px;
+     height: 450px;
+     width: 100%; 
+    background-image: linear-gradient(rgb(0, 255, 255) ,rgb(202, 141, 202) ,yellow); 
+     
+}
+.main{
+    height: 390px;
+    width: 210px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.head img{
+    height: 100px;
+    width: 210px;
+    border-radius: 20px 20px 0px 0px;
+    
+}
+.circle img{
+    
+    border-radius: 70px;
+    position: absolute;
+    top: 85px;
+    right: 760px;
+    padding: 10px ;
+    border: 0px solid white;
+
+}
+.dot img{
+    position: absolute;
+    right: 702px;
+    color: gray;
+  
+}
+h4 span{
+    position: absolute;
+    top: 155px;
+    right: 739px;
+    font-weight: bold;
+}
+p{
+    position: absolute;
+    top: 175px;
+    right: 749px;
+    color: grey;
+}
+.followers1{
+    position: relative;
+    top: 10px;
+   left: 500px;
+    font-size: 8px;
+    color:gray;
+    margin-bottom: -2px;
+    
+    
+}
+
+.followers2{
+    position: relative;
+    top: 10px;
+    left: 570px;
+    font-size: 8px;
+    color:gray;
+    margin-bottom: -2px;
+
+}
+.para p{
+    position: relative;
+    bottom: 40px ;
+    top: 150px;
+     right: 3px; 
+    text-align: center;
+    color: gray;
+
+}
+span{
+    padding-top: 10px 10px;
+}
+h3 span{
+    margin-top: -50px;
+}
+#span1 {
+     
+    color:rgba(0, 0, 255, 0.733);
+    font-size: 22px;
+    position: absolute;
+    bottom: 30px;
+    top: 110px;
+    right: 630px;
+    margin-top:-40px ;
+}
+#span2 {
+     
+    color:rgba(0, 0, 255, 0.733);
+    font-size: 22px;
+    position: absolute;
+    bottom:30px;
+    top: 110px;
+    right: 620px;
+  
+    margin-top: -40px;
+    
+}
+.button button{
+    height: 30px;
+    width: 180px;
+    background-color: yellow;
+    position:relative;
+    top: 140px;
+    left: 0px;
+    border-radius: 60px;
+    border: none;
+
+}

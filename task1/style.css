@@ -1,0 +1,94 @@
+    *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100px;
+    background-color: rgb(232, 193, 141);
+    position:absolute;
+    display: flex;
+    
+    
+}
+.container{
+    height:600px;
+    width: 1000px;
+    position:absolute;
+    background-color: antiquewhite;
+    padding: 10px 10px 10px 10px;
+    margin: 100px;
+    
+    
+}
+ #head{
+    background-color: blue;
+    height: 30px;
+    width: 115px;
+    padding: 1px 1px;
+    margin-left: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    font-size: 20px;
+    position:relative ;
+    top: 10px;
+   
+ }
+#orange{
+height: 230px;
+width: 270px;
+padding: 0px 7px 15px 5px;
+border: 8px solid orange;
+font-size: 22px ;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+ word-spacing: 8px;
+ position: relative;
+ top: -20px;
+ 
+ 
+
+}
+#green{
+    height: 150px;
+    width: 240px;
+    padding: 0px 7px 15px 5px;
+    border: 8px solid green;
+    font-size: 22px ;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+     word-spacing: 8px;
+     position: relative;
+     left: 740px;
+     top: -250px; 
+     
+     
+}
+#yellow{
+
+    height: 150px;
+    width: 270px;
+    padding: 0px 7px 15px 5px;
+    border: 8px solid yellow;
+    font-size: 22px ;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+     word-spacing: 8px;
+     position: absolute;
+    bottom: 15px; 
+   
+}
+#blue{
+    height: 200px;
+    width: 260px;
+    padding: 0px 7px 15px 5px;
+    border: 8px solid blue;
+    font-size: 22px ;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+     word-spacing: 8px;
+     position:relative;
+        bottom: 30px;
+        right: 10px;
+        left: 720px;
+}
